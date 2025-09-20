@@ -37,3 +37,5 @@ The goal of this project is to strengthen practical skills in building insightfu
 
 It simulates an actual business reporting scenario, allowing the exploration of e-commerce metrics through a user-friendly and visually appealing interface.
 
+
+<img width="906" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/888ee0b7-9d81-447d-9246-6a64e421371c" />
